@@ -1,0 +1,177 @@
+Droid{name='BaseDroid', HP=100, damage=10, armor=0, dodge=1}
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=95, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=504, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=90, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=508, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=85, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=512, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=80, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=516, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=75, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=520, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=70, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=524, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=65, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=528, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=60, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=532, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=55, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=536, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=50, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=540, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=45, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=544, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=40, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=548, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=35, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=552, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=30, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=556, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=25, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=560, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=20, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=564, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=15, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=568, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=10, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=572, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=5, damage=10, armor=0, dodge=1}
+-----------------------
+Tank restored 5HP
+Attack dodged
+BaseDroid наносить 1dmg
+Droid{name='Tank', HP=576, damage=5, armor=10, dodge=0}
+-----------------------
+Attack dodged
+Tank наносить 5dmg
+Droid{name='BaseDroid', HP=0, damage=10, armor=0, dodge=1}
+-----------------------
+Переможець: Tank
